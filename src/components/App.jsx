@@ -9,7 +9,7 @@ import GameOver from './GameOver/GameOver.jsx';
 
 const stages = [{id: 1, name: "start"}, {id: 2, name: "game"}, {id: 3, name: "end"}];
 
-const guessesQty = 3
+const guessesQty = 5
 
 
 function App() {
